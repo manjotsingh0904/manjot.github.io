@@ -9089,7 +9089,10 @@ textarea.form-control {
   padding-top: 0 !important; }
 
 .ftco-no-pb {
-  padding-bottom: 0 !important; }
+  padding-bottom: 0 !important;
+  padding: 50px 15px }
+
+
 
 .ftco-bg-dark {
   background: #3c312e; }
